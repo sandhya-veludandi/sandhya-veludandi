@@ -10,7 +10,7 @@ I graduated this year from Rutgers University - New Brunswick with a B.S. in Com
 ### 🎯 Skills
 * Software Engineering (Java, C/C++, Python, SQL)
 * Front-End Development (JavaScript, React, Vue, HTML/CSS)
-* Cloud + DevOps (Jenkins, Git, Docker, Grafana)
+* Cloud + DevOps Engineering (Jenkins, Git, Docker, Grafana)
 
 ### 🚀 Exploring
 * Jenkins
