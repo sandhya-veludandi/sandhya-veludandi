@@ -1,16 +1,22 @@
-### Hi there 👋
+![hi-universe](https://user-images.githubusercontent.com/51370284/178168373-d694f4ac-c054-4d42-ba6b-5d5fc738970a.gif)
 
-<!--
-**sandhya-veludandi/sandhya-veludandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 Hi, Universe! My name is Sandhya Veludandi.
+I graduated this year from Rutgers University - New Brunswick with a B.S. in Computer Science and B.A. in Statistics!
 
-Here are some ideas to get you started:
+### 💼 Experience
+* Cloud Architecture & DevOps Engineering Co-op @ UPS (February 2022 - Present)
+* Cloud Architecture & DevOps Engineering Intern @ UPS (Summer 2021)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Skills
+* Software Engineering (Java, C/C++, Python, SQL)
+* Front-End Development (JavaScript, React, Vue, HTML/CSS)
+* Cloud + DevOps (Jenkins, Git, Docker, Grafana)
+
+### 🚀 Exploring
+* Jenkins
+* Grafana Dashboards
+* Data Visualization
+
+### ✨ Let's connect on [LinkedIn](https://linkedin.com/in/sandhya-veludandi)!
+
+![nyan-cat](https://user-images.githubusercontent.com/51370284/178168406-df547f9f-5468-49ce-9e3e-f4482fc558e5.gif)
