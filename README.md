@@ -1,7 +1,7 @@
 ![hi-universe](https://user-images.githubusercontent.com/51370284/178168373-d694f4ac-c054-4d42-ba6b-5d5fc738970a.gif)
 
 ### 💫 Hi, Universe! My name is Sandhya Veludandi.
-I graduated this year from Rutgers University - New Brunswick with a B.S. in Computer Science and B.A. in Statistics!
+I graduated this year from Rutgers University - New Brunswick with a B.S. in **Computer Science** and B.A. in **Statistics**!
 
 ### 💼 Experience
 * Cloud Architecture & DevOps Engineering Co-op @ UPS (February 2022 - Present)
