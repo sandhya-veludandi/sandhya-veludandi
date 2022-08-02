@@ -4,8 +4,8 @@
 I graduated this year from Rutgers University - New Brunswick with a B.S. in **Computer Science** and B.A. in **Statistics**!
 
 ### 💼 Experience
-* Cloud Architecture & DevOps Engineering Co-op @ **UPS** _(February 2022 - Present)_
-* Cloud Architecture & DevOps Engineering Intern @ **UPS** _(Summer 2021)_
+* Cloud Architecture & DevOps Engineering Co-op @ **UPS** (February 2022 - Present)
+* Cloud Architecture & DevOps Engineering Intern @ **UPS** (Summer 2021)
 
 ### 🎯 Skills
 * Software Engineering (Java, C/C++, Python, SQL)
