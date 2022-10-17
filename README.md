@@ -1,6 +1,7 @@
 ![hi-universe](https://user-images.githubusercontent.com/51370284/178168373-d694f4ac-c054-4d42-ba6b-5d5fc738970a.gif)
 
-# 💫 Hi Universe!
+## 💫 About Me
+I love learning new 
 
 ### 🎓 Education
 * B.S. in **Computer Science** and B.A. in **Statistics** @ Rutgers University - New Brunswick
@@ -14,6 +15,12 @@
 * Software Engineering (Java, C/C++, Python, SQL)
 * Front-End Development (JavaScript, React, Vue, HTML/CSS)
 * Cloud + DevOps Engineering (Jenkins, Git, Docker, Grafana)
+
+## 🚀 Exploring
+* [Backend Developer Roadmap](https://roadmap.sh/backend)
+* [DevOps Engineer Roadmap](https://roadmap.sh/devops)
+* [Ethical Hacking](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)
+
 
 ### ✨ Let's connect on [LinkedIn](https://linkedin.com/in/sandhya-veludandi)!
 
