@@ -1,7 +1,5 @@
 ![hi-universe](https://user-images.githubusercontent.com/51370284/178168373-d694f4ac-c054-4d42-ba6b-5d5fc738970a.gif)
 
-### 💫 Hi, Universe! My name is Sandhya Veludandi.
-
 ### 🎓 Education
  B.S. in **Computer Science** and B.A. in **Statistics** @ Rutgers University - New Brunswick
 
