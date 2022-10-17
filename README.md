@@ -1,7 +1,9 @@
 ![hi-universe](https://user-images.githubusercontent.com/51370284/178168373-d694f4ac-c054-4d42-ba6b-5d5fc738970a.gif)
 
 ### 💫 Hi, Universe! My name is Sandhya Veludandi.
-I graduated this year from Rutgers University - New Brunswick with a B.S. in **Computer Science** and B.A. in **Statistics**!
+
+### 🎓 Education
+ B.S. in **Computer Science** and B.A. in **Statistics** @ Rutgers University - New Brunswick
 
 ### 💼 Experience
 * Cloud Architecture & DevOps Engineer @ **UPS** (September 2022 - Present)
@@ -12,11 +14,6 @@ I graduated this year from Rutgers University - New Brunswick with a B.S. in **C
 * Software Engineering (Java, C/C++, Python, SQL)
 * Front-End Development (JavaScript, React, Vue, HTML/CSS)
 * Cloud + DevOps Engineering (Jenkins, Git, Docker, Grafana)
-
-### 🚀 Exploring
-* Jenkins
-* Grafana Dashboards
-* Data Visualization
 
 ### ✨ Let's connect on [LinkedIn](https://linkedin.com/in/sandhya-veludandi)!
 
