@@ -3,7 +3,7 @@
 # 💫 Hi Universe!
 
 ### 🎓 Education
- B.S. in **Computer Science** and B.A. in **Statistics** @ Rutgers University - New Brunswick
+* B.S. in **Computer Science** and B.A. in **Statistics** @ Rutgers University - New Brunswick
 
 ### 💼 Experience
 * Cloud Architecture & DevOps Engineer @ **UPS** (September 2022 - Present)
