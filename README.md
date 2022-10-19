@@ -1,7 +1,7 @@
 ![hi-universe](https://user-images.githubusercontent.com/51370284/178168373-d694f4ac-c054-4d42-ba6b-5d5fc738970a.gif)
 
 ### 💫 About Me
-I love exploring computer science related fields, and am always looking for the most effective learning methods and material!
+I love exploring computer science related fields, and am always looking for the most effective learning material and methods!
 
 ### 🎓 Education
 * B.S. in **Computer Science** and B.A. in **Statistics** @ Rutgers University - New Brunswick
