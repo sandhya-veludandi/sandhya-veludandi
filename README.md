@@ -14,7 +14,7 @@ I love exploring computer science related fields, and am always looking for the 
 ### 🎯 Skills
 * Software Engineering (Java, C/C++, Python, SQL)
 * Front-End Development (JavaScript, React, Vue, HTML/CSS)
-* Cloud + DevOps Engineering (Jenkins, Git, Docker, Grafana)
+* Cloud + DevOps Engineering (Java Groovy, Jenkins, ADO)
 
 ### 🚀 Exploring
 * [Backend Developer Roadmap](https://roadmap.sh/backend)
