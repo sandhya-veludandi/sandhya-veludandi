@@ -7,7 +7,7 @@ I love exploring computer science related fields, and am always looking for the 
 * B.S. in **Computer Science** and B.A. in **Statistics** @ Rutgers University - New Brunswick
 
 ### 💼 Experience
-* Cloud Architecture & DevOps Engineer @ **UPS** (September 2022 - Present)
+* DevOps Engineer @ **UPS** (September 2022 - Present)
 * Cloud Architecture & DevOps Engineering Co-op @ **UPS** (February 2022 - September 2022)
 * Cloud Architecture & DevOps Engineering Intern @ **UPS** (Summer 2021)
 
