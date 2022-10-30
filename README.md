@@ -8,13 +8,13 @@ I love exploring computer science related fields, and am always looking for the 
 
 ### 💼 Experience
 * DevOps Engineer @ **UPS** (September 2022 - Present)
-* Cloud Architecture & DevOps Engineering Co-op @ **UPS** (February 2022 - September 2022)
-* Cloud Architecture & DevOps Engineering Intern @ **UPS** (Summer 2021)
+* DevOps Engineering Co-op @ **UPS** (February 2022 - September 2022)
+* DevOps Engineering Intern @ **UPS** (Summer 2021)
 
 ### 🎯 Skills
 * Software Engineering (Java, C/C++, Python, SQL)
 * Front-End Development (JavaScript, React, Vue, HTML/CSS)
-* Cloud + DevOps Engineering (Java Groovy, Jenkins, ADO)
+* DevOps Engineering (Java Groovy, Jenkins, ADO)
 
 ### 🚀 Exploring
 * [Backend Developer Roadmap](https://roadmap.sh/backend)
